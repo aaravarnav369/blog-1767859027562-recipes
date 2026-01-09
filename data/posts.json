@@ -1,3 +1,71 @@
 {
-  "posts": []
+  "posts": [
+    {
+      "id": 7,
+      "title": "5 Finger-Lickin' Chicken Recipes You Need To Try Tonight!",
+      "slug": "5-finger-lickin-chicken-recipes-you-need-to-try-tonight",
+      "excerpt": "From classic comfort to exciting new flavors, these easy chicken recipes will become your weeknight staples. Get ready to impress!",
+      "category": "Main Courses",
+      "image": "../images/posts/5-finger-lickin-chicken-recipes-you-need-to-try-tonight.jpg",
+      "date": "2026-01-09",
+      "content": {
+        "title": "5 Finger-Lickin' Chicken Recipes You Need To Try Tonight!",
+        "excerpt": "From classic comfort to exciting new flavors, these easy chicken recipes will become your weeknight staples. Get ready to impress!",
+        "category": "Main Courses",
+        "paragraphs": [
+          "Chicken is a versatile protein that's a staple in kitchens worldwide. Its mild flavor makes it a perfect canvas for all sorts of cuisines, spices, and cooking methods. Whether you're a seasoned chef or a beginner cook, these five chicken recipes offer something delicious and achievable for everyone. Prepare to tantalize your taste buds with this diverse collection!",
+          "First up is our classic Lemon Herb Roasted Chicken. This is the ultimate comfort food, simple to prepare yet bursting with flavor. The bright lemon and fragrant herbs infuse the chicken with a wonderful aroma and create a crispy, golden-brown skin. It's perfect for a Sunday roast or a special occasion dinner.",
+          "Next, we're taking a trip to Asia with our Spicy Korean Fried Chicken. Forget takeout – this crispy, crunchy chicken is coated in a fiery gochujang-based sauce that's both sweet and savory. It's addictive, satisfying, and guaranteed to be a crowd-pleaser.",
+          "For a quick and healthy weeknight meal, look no further than our Mediterranean Chicken Skewers. Marinated in lemon juice, olive oil, garlic, and oregano, these skewers are grilled to perfection and served with a fresh tzatziki sauce. They're light, flavorful, and packed with nutrients.",
+          "If you're craving something creamy and comforting, our Chicken Alfredo Pasta is the answer. Tender chicken breast is tossed in a rich and decadent Alfredo sauce, made with Parmesan cheese, butter, and cream. Serve it over your favorite pasta for a truly satisfying meal.",
+          "Lastly, we're rounding out the list with a One-Pan Lemon Garlic Chicken and Veggies. This recipe is a lifesaver on busy weeknights. Simply toss chicken and your favorite vegetables (like broccoli, carrots, and potatoes) with lemon, garlic, and olive oil, then roast everything together on one pan. It's easy cleanup and a complete, nutritious meal!",
+          "Each of these recipes offers a unique culinary experience, showcasing the versatility of chicken. So, grab your ingredients and get cooking! Your taste buds will thank you."
+        ],
+        "ingredients": [
+          "Whole Chicken (Lemon Herb Roasted Chicken)",
+          "Lemons (Lemon Herb Roasted Chicken)",
+          "Fresh Herbs (Rosemary, Thyme, Sage) (Lemon Herb Roasted Chicken)",
+          "Gochujang Paste (Spicy Korean Fried Chicken)",
+          "Chicken Thighs (Spicy Korean Fried Chicken)",
+          "Flour (Spicy Korean Fried Chicken)",
+          "Lemon Juice (Mediterranean Chicken Skewers)",
+          "Olive Oil (Mediterranean Chicken Skewers)",
+          "Chicken Breast (Mediterranean Chicken Skewers)",
+          "Chicken Breast (Chicken Alfredo Pasta)",
+          "Parmesan Cheese (Chicken Alfredo Pasta)",
+          "Heavy Cream (Chicken Alfredo Pasta)",
+          "Broccoli (One-Pan Lemon Garlic Chicken and Veggies)",
+          "Carrots (One-Pan Lemon Garlic Chicken and Veggies)",
+          "Potatoes (One-Pan Lemon Garlic Chicken and Veggies)",
+          "Garlic (One-Pan Lemon Garlic Chicken and Veggies)"
+        ],
+        "steps": [
+          "Preheat oven to 400°F (Lemon Herb Roasted Chicken)",
+          "Rub chicken with olive oil, lemon juice, herbs, salt, and pepper (Lemon Herb Roasted Chicken)",
+          "Roast for 1.5-2 hours, or until cooked through (Lemon Herb Roasted Chicken)",
+          "Cut chicken into bite-sized pieces (Spicy Korean Fried Chicken)",
+          "Coat chicken in flour and deep fry until golden brown (Spicy Korean Fried Chicken)",
+          "Toss fried chicken in gochujang sauce (Spicy Korean Fried Chicken)",
+          "Marinate chicken in lemon juice, olive oil, garlic, and oregano (Mediterranean Chicken Skewers)",
+          "Thread chicken onto skewers (Mediterranean Chicken Skewers)",
+          "Grill skewers until cooked through (Mediterranean Chicken Skewers)",
+          "Cook pasta according to package directions (Chicken Alfredo Pasta)",
+          "Sauté chicken in butter until cooked through (Chicken Alfredo Pasta)",
+          "Add heavy cream and Parmesan cheese to the pan and simmer until thickened (Chicken Alfredo Pasta)",
+          "Toss pasta and chicken in Alfredo sauce (Chicken Alfredo Pasta)",
+          "Toss chicken and vegetables with lemon juice, garlic, and olive oil (One-Pan Lemon Garlic Chicken and Veggies)",
+          "Spread chicken and vegetables on a baking sheet (One-Pan Lemon Garlic Chicken and Veggies)",
+          "Roast for 30-40 minutes, or until cooked through (One-Pan Lemon Garlic Chicken and Veggies)"
+        ],
+        "tags": [
+          "chicken recipes",
+          "easy dinner",
+          "weeknight meals",
+          "roasted chicken",
+          "korean fried chicken"
+        ],
+        "image": "https://image.pollinations.ai/prompt/5%20Best%20Chicken%20Receipes%20recipes%20blog%20post%20feature%20image%2C%20high%20quality%2C%20photorealistic%2C%20photorealistic%2C%204k%2C%20high%20detail%2C%20professional%20photography%2C%20cinematic%20lighting?nologo=true"
+      }
+    }
+  ]
 }
