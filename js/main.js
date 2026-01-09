@@ -7,7 +7,8 @@
 // CONFIGURATION
 // ============================================
 const CONFIG = {
-    dataPath: 'data/posts.json',
+    // Dynamically adjust path based on current location (root vs /posts/)
+    dataPath: window.location.pathname.includes('/posts/') ? '../data/posts.json' : 'data/posts.json',
     postsPerPage: 12,
     excerptLength: 150
 };
@@ -388,3 +389,5 @@ if (typeof module !== 'undefined' && module.exports) {
         escapeHtml
     };
 }
+
+// Updated by AI System at 2026-01-09T15:27:45.093Z
