@@ -120,7 +120,7 @@ function createPostCard(post) {
         : '';
 
     const excerpt = truncateText(post.excerpt, CONFIG.excerptLength);
-    const postUrl = `posts/${encodeURIComponent(post.slug)}.html`;
+    const postUrl = getLinkPath('post', post.slug);
 
     card.innerHTML = `
         ${imageHtml}
@@ -138,6 +138,25 @@ function createPostCard(post) {
     `;
 
     return card;
+}
+
+// Helper for relative paths
+function getLinkPath(type, slugOrCat) {
+    const isPostPage = window.location.pathname.includes('/posts/');
+
+    if (type === 'home') {
+        return isPostPage ? '../index.html' : 'index.html';
+    }
+    if (type === 'post') {
+        // If we are in /posts/, sibling is just slug.html
+        // If we are in /, child is posts/slug.html
+        return isPostPage ? `${slugOrCat}.html` : `posts/${slugOrCat}.html`;
+    }
+    if (type === 'category') {
+        const base = isPostPage ? '../index.html' : 'index.html';
+        return `${base}#${slugOrCat.toLowerCase()}`;
+    }
+    return '#';
 }
 
 // ============================================
@@ -287,7 +306,8 @@ function renderCategories(posts) {
     categories.forEach(category => {
         const count = posts.filter(p => p.category === category).length;
         const li = document.createElement('li');
-        li.innerHTML = `<a href="index.html#${category.toLowerCase()}">${escapeHtml(category)} (${count})</a>`;
+        const catUrl = getLinkPath('category', category);
+        li.innerHTML = `<a href="${catUrl}">${escapeHtml(category)} (${count})</a>`;
         container.appendChild(li);
     });
 }
@@ -304,7 +324,7 @@ function renderRecentPosts(posts) {
     container.innerHTML = '';
     recentPosts.forEach(post => {
         const li = document.createElement('li');
-        const postUrl = `posts/${encodeURIComponent(post.slug)}.html`;
+        const postUrl = getLinkPath('post', post.slug);
         li.innerHTML = `<a href="${postUrl}">${escapeHtml(post.title)}</a>`;
         container.appendChild(li);
     });
@@ -390,4 +410,4 @@ if (typeof module !== 'undefined' && module.exports) {
     };
 }
 
-// Updated by AI System at 2026-01-09T15:27:45.093Z
+// Updated by AI System at 2026-01-10T06:50:41.864Z
