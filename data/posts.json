@@ -1,6 +1,62 @@
 {
   "posts": [
     {
+      "id": 10,
+      "title": "15-Minute Creamy Chicken Pasta: The Ultimate One-Pan Weeknight Dinner!",
+      "slug": "15-minute-creamy-chicken-pasta-the-ultimate-one-pan-weeknight-dinner",
+      "excerpt": "Craving creamy pasta but short on time? This one-pan chicken pasta is ready in just 15 minutes! Easy, delicious, and minimal cleanup.",
+      "category": "Dinner Recipes",
+      "image": "../images/posts/15-minute-creamy-chicken-pasta-the-ultimate-one-pan-weeknight-dinner.jpg",
+      "date": "2026-01-11",
+      "content": {
+        "title": "15-Minute Creamy Chicken Pasta: The Ultimate One-Pan Weeknight Dinner!",
+        "excerpt": "Craving creamy pasta but short on time? This one-pan chicken pasta is ready in just 15 minutes! Easy, delicious, and minimal cleanup.",
+        "category": "Dinner Recipes",
+        "paragraphs": [
+          "Weeknights are hectic, and sometimes the last thing you want to do is spend hours in the kitchen. That's where this 15-Minute Creamy Chicken Pasta recipe comes to the rescue! It's a simple, satisfying meal that requires minimal effort and only one pan for easy cleanup. Perfect for busy families, students, or anyone who loves a quick and delicious dinner.",
+          "The beauty of this recipe lies in its simplicity. We're using pre-cooked chicken to save time, but you can certainly use leftover grilled or roasted chicken if you have it on hand. The creamy sauce is made with pantry staples, and you can easily customize it with your favorite vegetables or herbs. Think spinach, mushrooms, bell peppers, or a sprinkle of fresh parsley or basil.",
+          "What makes this truly a one-pan wonder is that you cook the pasta directly in the sauce. This not only saves on washing up but also allows the pasta to absorb all the delicious flavors of the chicken and creamy sauce. Be sure to stir frequently to prevent the pasta from sticking and to ensure even cooking.",
+          "Don't be afraid to experiment with different types of pasta. While penne or rotini work great, you can also use fusilli, farfalle (bow tie), or even small shells. Just adjust the cooking time accordingly, as some pasta shapes cook faster than others. The key is to cook the pasta until it's al dente, meaning it's firm to the bite.",
+          "This recipe is also incredibly versatile. If you're looking for a vegetarian option, simply omit the chicken and add more vegetables. You can also add a pinch of red pepper flakes for a touch of heat, or a squeeze of lemon juice for added brightness. Feel free to get creative and make it your own!",
+          "For an extra touch of indulgence, sprinkle some grated Parmesan cheese on top before serving. The salty, savory cheese complements the creamy sauce perfectly and adds a delightful finishing touch. Serve immediately and enjoy this comforting and satisfying meal!"
+        ],
+        "ingredients": [
+          "1 pound pasta (penne, rotini, or your favorite shape)",
+          "1 tablespoon olive oil",
+          "1 pound pre-cooked chicken, shredded or cubed",
+          "1 onion, chopped",
+          "2 cloves garlic, minced",
+          "4 cups chicken broth",
+          "1 cup heavy cream",
+          "1/2 cup grated Parmesan cheese",
+          "1 teaspoon Italian seasoning",
+          "Salt and pepper to taste",
+          "Optional: Spinach, mushrooms, bell peppers, parsley, or basil"
+        ],
+        "steps": [
+          "Heat olive oil in a large skillet or pot over medium heat.",
+          "Add onion and garlic and cook until softened, about 3-5 minutes.",
+          "Add chicken broth, heavy cream, Italian seasoning, salt, and pepper to the skillet.",
+          "Bring to a boil, then add pasta and chicken.",
+          "Reduce heat to medium-low, cover, and simmer for 10-12 minutes, or until pasta is cooked al dente, stirring occasionally.",
+          "Stir in Parmesan cheese and any optional vegetables (spinach, mushrooms, bell peppers) during the last few minutes of cooking.",
+          "Serve immediately and garnish with fresh parsley or basil, if desired."
+        ],
+        "tags": [
+          "pasta",
+          "chicken",
+          "creamy",
+          "one-pan",
+          "easy",
+          "dinner",
+          "recipe",
+          "15-minute meal",
+          "weeknight dinner"
+        ],
+        "image": "https://image.pollinations.ai/prompt/15-Minute%20Creamy%20Chicken%20Pasta%20(One-Pan%20Recipe)%20recipes%20blog%20post%20feature%20image%2C%20high%20quality%2C%20photorealistic%2C%20photorealistic%2C%204k%2C%20high%20detail%2C%20professional%20photography%2C%20cinematic%20lighting?nologo=true"
+      }
+    },
+    {
       "id": 9,
       "title": "15-Minute Creamy Chicken Pasta: The Ultimate One-Pan Wonder!",
       "slug": "15-minute-creamy-chicken-pasta-the-ultimate-one-pan-wonder",
