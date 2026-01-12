@@ -1,6 +1,59 @@
 {
   "posts": [
     {
+      "id": 12,
+      "title": "Ultimate Cheesy Chicken Bake: Your New Family Favorite Comfort Food",
+      "slug": "ultimate-cheesy-chicken-bake-your-new-family-favorite-comfort-food",
+      "excerpt": "Discover the ultimate comfort food! This easy and delicious Cheesy Chicken Bake recipe combines tender chicken with a rich, gooey cheese sauce for a truly satisfying meal.",
+      "category": "MainCourses",
+      "image": "../images/posts/ultimate-cheesy-chicken-bake-your-new-family-favorite-comfort-food.jpg",
+      "date": "2026-01-12",
+      "content": {
+        "title": "Ultimate Cheesy Chicken Bake: Your New Family Favorite Comfort Food",
+        "slug": "ultimate-cheesy-chicken-bake",
+        "excerpt": "Discover the ultimate comfort food! This easy and delicious Cheesy Chicken Bake recipe combines tender chicken with a rich, gooey cheese sauce for a truly satisfying meal.",
+        "category": "MainCourses",
+        "image": "https://image.pollinations.ai/prompt/Chicken%20Cheese%20recipes%20blog%20post%20feature%20image%2C%20high%20quality%2C%20photorealistic%2C%20photorealistic%2C%204k%2C%20high%20detail%2C%20professional%20photography%2C%20cinematic%20lighting?nologo=true&model=imagen-4.0-fast-generate-001",
+        "paragraphs": [
+          "There's something incredibly comforting about a warm, cheesy casserole, and when you add tender chicken to the mix, you've got a dish that's sure to become a staple in your recipe rotation. Our Ultimate Cheesy Chicken Bake is designed to be just that – a reliable, flavorful, and incredibly satisfying meal that brings smiles to everyone at the table. It’s perfect for busy weeknights, special gatherings, or whenever you’re craving a hearty, home-cooked delight.",
+          "What makes this Cheesy Chicken Bake truly special is the perfect harmony of textures and flavors. We start with succulent pieces of chicken, enveloped in a creamy, savory sauce, and then blanketed with a generous layer of melted, bubbly cheese. The simplicity of the preparation belies the depth of flavor you'll achieve, making it an ideal choice for both novice cooks and seasoned chefs looking for a dependable crowd-pleaser.",
+          "The secret to a truly great cheesy chicken dish lies in the sauce and the cheese blend. Our recipe features a velvety-smooth, rich sauce made from a blend of savory chicken broth and creamy milk, thickened to perfection. We then introduce a medley of cheeses – sharp cheddar for tang and depth, and gooey mozzarella for that irresistible stretch. This combination ensures every bite is packed with cheesy goodness without being overly heavy.",
+          "Preparing this dish is straightforward, allowing you to spend less time in the kitchen and more time enjoying your meal. We'll guide you through searing the chicken to lock in moisture, creating the luscious cheese sauce, and then bringing it all together in a single baking dish. It’s an easy process that yields impressive results, proving that delicious comfort food doesn't have to be complicated.",
+          "Versatility is another hallmark of the Ultimate Cheesy Chicken Bake. While it’s fantastic on its own, it also pairs beautifully with a variety of sides. Serve it alongside fluffy rice, buttery mashed potatoes, or a crisp green salad to round out the meal. You can also easily customize it by adding vegetables like broccoli florets or spinach to the sauce for an extra boost of nutrition and color. Don't be afraid to experiment and make it your own!",
+          "So, if you’re searching for a hearty, comforting meal that’s guaranteed to be a hit, look no further. This Ultimate Cheesy Chicken Bake recipe promises a symphony of flavors and textures that will satisfy your cravings and warm your soul. Gather your ingredients, follow our simple steps, and prepare to indulge in a dish that will quickly earn its place as a family favorite."
+        ],
+        "ingredients": [
+          "1.5 lbs boneless, skinless chicken breasts, cut into 1-inch cubes",
+          "1 tbsp olive oil",
+          "1 small onion, finely chopped",
+          "2 cloves garlic, minced",
+          "3 tbsp unsalted butter",
+          "3 tbsp all-purpose flour",
+          "1.5 cups milk, warm",
+          "1 cup chicken broth",
+          "4 oz cream cheese, softened",
+          "1 cup shredded sharp cheddar cheese",
+          "1 cup shredded mozzarella cheese (plus extra for topping)",
+          "1/2 tsp salt",
+          "1/4 tsp black pepper",
+          "1/2 tsp dried Italian seasoning",
+          "Fresh parsley, chopped (for garnish)"
+        ],
+        "steps": [
+          "Preheat oven to 375°F (190°C). Lightly grease a 9x13 inch baking dish.",
+          "In a large skillet, heat olive oil over medium-high heat. Add chicken cubes and cook until lightly browned and cooked through, about 5-7 minutes. Season with a pinch of salt and pepper. Remove chicken from the skillet and set aside.",
+          "In the same skillet, melt butter over medium heat. Add chopped onion and sauté until softened, about 3-4 minutes. Add minced garlic and cook for another minute until fragrant.",
+          "Sprinkle flour over the onion and garlic, stirring constantly for 1 minute to create a roux.",
+          "Gradually whisk in warm milk and chicken broth until the sauce thickens and is smooth. Bring to a gentle simmer, then reduce heat to low.",
+          "Stir in cream cheese until fully melted and smooth. Remove from heat and stir in 1 cup shredded cheddar cheese and 1 cup shredded mozzarella cheese until melted and well combined. Season with salt, pepper, and Italian seasoning.",
+          "Return the cooked chicken to the skillet with the cheese sauce. Stir to coat the chicken evenly.",
+          "Pour the chicken and sauce mixture into the prepared baking dish. Sprinkle with additional shredded mozzarella cheese on top.",
+          "Bake for 20-25 minutes, or until the cheese is melted, bubbly, and golden brown. If desired, broil for the last 2-3 minutes for an extra crispy topping (watch carefully!).",
+          "Remove from oven, let stand for 5 minutes, then garnish with fresh chopped parsley before serving."
+        ]
+      }
+    },
+    {
       "id": 11,
       "title": "Homemade Chicken Nuggets: Crispy, Juicy, & Better Than Store-Bought!",
       "slug": "homemade-chicken-nuggets-crispy-juicy-better-than-store-bought",
