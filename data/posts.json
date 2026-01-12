@@ -1,6 +1,56 @@
 {
   "posts": [
     {
+      "id": 11,
+      "title": "Homemade Chicken Nuggets: Crispy, Juicy, & Better Than Store-Bought!",
+      "slug": "homemade-chicken-nuggets-crispy-juicy-better-than-store-bought",
+      "excerpt": "Unlock the secret to perfect homemade chicken nuggets! Crispy on the outside, juicy on the inside, and a guaranteed family favorite.",
+      "category": "Kid-Friendly",
+      "image": "https://via.placeholder.com/800x400?text=Image+Upload+Error",
+      "date": "2026-01-12",
+      "content": {
+        "title": "Homemade Chicken Nuggets: Crispy, Juicy, & Better Than Store-Bought!",
+        "slug": "homemade-chicken-nuggets-recipe",
+        "excerpt": "Unlock the secret to perfect homemade chicken nuggets! Crispy on the outside, juicy on the inside, and a guaranteed family favorite.",
+        "category": "Kid-Friendly",
+        "image": "https://via.placeholder.com/1600x900/4F46E5/ffffff?text=Image+Generation+Error",
+        "paragraphs": [
+          "Chicken nuggets hold a special place in the hearts (and stomachs) of many, conjuring memories of childhood treats, quick dinners, and irresistible snack times. While the store-bought frozen variety offers convenience, there's an undeniable magic that happens when you create these golden bites from scratch. Imagine nuggets that are not only crispy and tender but also bursting with fresh flavor, free from questionable additives, and tailored exactly to your family's taste. This isn't just a meal; it's a nostalgic journey made better.",
+          "The true beauty of homemade chicken nuggets lies in the control you gain over the ingredients. Say goodbye to mystery meat and hello to lean, tender chicken breast or thigh. You can choose high-quality breadcrumbs, season the meat and coating exactly how you like, and opt for healthier cooking methods beyond deep-frying. It's a fantastic way to ensure your family enjoys a wholesome meal that doesn't compromise on the beloved texture and taste of their favorite comfort food.",
+          "Achieving that coveted crispy exterior is all about the breading process. A classic three-stage dredging — first in seasoned flour, then in whisked egg, and finally in flavorful breadcrumbs — creates a perfect crust that locks in moisture. For an extra crunch, consider using Panko breadcrumbs or adding a touch of cornstarch to your flour mixture. Don't be shy with your seasonings; a pinch of paprika, garlic powder, and onion powder in both the flour and breadcrumbs can elevate the flavor significantly.",
+          "While deep-frying yields the crispiest results, there are excellent healthier alternatives. Baking your nuggets in a hot oven (around 400°F or 200°C) on a wire rack allows air to circulate, promoting even crisping with less oil. For an even quicker and healthier option, an air fryer works wonders, producing remarkably crispy nuggets with just a spray of oil. No matter your cooking method, ensure your nuggets are cooked through to a safe internal temperature of 165°F (74°C) for perfect, juicy results.",
+          "Once cooked to golden perfection, chicken nuggets are incredibly versatile. Serve them simply with a selection of dipping sauces like classic ketchup, tangy BBQ sauce, creamy ranch, or zesty honey mustard. They make a fantastic main course alongside a fresh salad or baked fries, a quick and satisfying snack, or even a fun appetizer for gatherings. Experiment with different spices in your breading—think a touch of chili powder for a kick, or dried herbs like oregano for an Italian twist. The possibilities are endless!",
+          "Making chicken nuggets from scratch isn't just about crafting a delicious meal; it's about creating a moment. It’s about the joy of serving something wholesome and delicious that brings smiles to everyone around the table. So next time that craving for crispy, juicy chicken nuggets hits, skip the freezer aisle and embrace the delightful process of making your own. You'll be amazed at how simple and rewarding it is to create a truly superior version of this timeless classic."
+        ],
+        "ingredients": [
+          "1.5 lbs boneless, skinless chicken breasts",
+          "1 cup all-purpose flour",
+          "1 teaspoon salt",
+          "1/2 teaspoon black pepper",
+          "1 teaspoon paprika",
+          "1/2 teaspoon garlic powder",
+          "1/2 teaspoon onion powder",
+          "2 large eggs",
+          "1 tablespoon milk or water",
+          "2 cups Panko breadcrumbs (or regular breadcrumbs)",
+          "Vegetable oil for frying (or olive oil spray for baking/air frying)"
+        ],
+        "steps": [
+          "Cut chicken breasts into 1-inch pieces. Pat dry with paper towels.",
+          "In a shallow bowl, combine flour, salt, pepper, paprika, garlic powder, and onion powder.",
+          "In a second shallow bowl, whisk eggs with milk or water.",
+          "In a third shallow bowl, place the Panko breadcrumbs.",
+          "Dredge each chicken piece first in the flour mixture, shaking off excess.",
+          "Dip the floured chicken piece into the egg mixture, allowing excess to drip off.",
+          "Finally, coat thoroughly in the breadcrumbs, pressing gently to adhere.",
+          "To Fry: Heat 1-2 inches of oil in a large skillet over medium-high heat to 350°F (175°C). Fry nuggets in batches for 3-5 minutes per side, or until golden brown and cooked through (internal temperature 165°F/74°C). Remove with a slotted spoon and place on a wire rack set over paper towels.",
+          "To Bake: Preheat oven to 400°F (200°C). Lightly spray a baking sheet with olive oil or cooking spray. Place breaded nuggets in a single layer. Bake for 18-22 minutes, flipping halfway through, until golden brown and cooked through.",
+          "To Air Fry: Preheat air fryer to 375°F (190°C). Lightly spray nuggets with olive oil or cooking spray. Place in a single layer in the air fryer basket (do not overcrowd). Cook for 10-14 minutes, shaking the basket halfway through, until golden brown and cooked through.",
+          "Serve hot with your favorite dipping sauces."
+        ]
+      }
+    },
+    {
       "id": 8,
       "title": "Creamy Chicken Garlic Pasta: An Easy & Flavorful Weeknight Dinner",
       "slug": "creamy-chicken-garlic-pasta-an-easy-flavorful-weeknight-dinner",
